@@ -1,1 +1,9 @@
-guitar
+3. Plan du code
+Créer une fenêtre avec l'interface graphique.
+Dessiner une guitare (cordes et frettes).
+Associer chaque corde à un bouton ou une zone cliquable.
+Jouer le son correspondant lorsque l'utilisateur interagit avec la guitare.
+4. Modélisation physique des cordes
+Pour aller plus loin, tu peux simuler la vibration des cordes 
+en utilisant des principes physiques (comme la méthode de Karplus-Strong pour la synthèse sonore). 
+La bibliothèque numpy peut être utile pour ça.
